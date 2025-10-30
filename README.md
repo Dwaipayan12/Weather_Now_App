@@ -1,1 +1,1 @@
-This is a Full Stavck project
+This is a Full Stack project
