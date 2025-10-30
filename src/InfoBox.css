@@ -1,0 +1,11 @@
+.Info-Box{
+    text-align: center;
+}
+.cardContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    width: 100%;  /* Or any specific width value you want */
+    max-width: 600px;  /* Set max width to limit how wide it can get */
+    margin-left: 30%;
+}
